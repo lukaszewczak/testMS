@@ -1,7 +1,7 @@
 import { select, templates, settings, classNames } from '../settings.js';
 import utils from '../utils.js';
 import AmountWidget from './AmountWidget.js';
-import PeopleWidget from './peopleWidget.js';
+import PeopleWidget from './PeopleWidget.js';
 import DatePicker from './DatePicker.js';
 import HourPicker from './HourPicker.js';
 
